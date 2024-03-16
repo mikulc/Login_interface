@@ -14,14 +14,6 @@ body {
     align-items: center;
 }
 
-.vbg video{
-    width: 100%;
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    z-index: -100;
-}
-
 .box {
     width: 350px;
     height: 350px;
